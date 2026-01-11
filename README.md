@@ -50,11 +50,3 @@ Banco de dados: Firebase.
 ## Instruções para Execução
 Para executar o projeto, ele está hospedado no repositorio de PI3: https://github.com/raiellysouza/EduSnack_PIES3.git
 
-```bash
-# Clone o repositório
-git clone [https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories)
-
-# Navegue para o diretório
-cd [nome-do-repositorio]
-
-# Siga as instruções específicas para a sua tecnologia...
