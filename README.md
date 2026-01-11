@@ -8,6 +8,8 @@
 * **Nome do Aluno(a) 3:** [Francisco Rafael Lobo Pinho, 542173 - Front-end]
 * **Nome do Aluno(a) 4:** [Raielly Batista de Souza, 556322 - Back-end] - Já fez móveis, apenas aluna de PI3.
 
+## Instruções para Execução
+Para executar o projeto, ele está hospedado no repositorio de PI3: https://github.com/raiellysouza/EduSnack_PIES3.git
 
 ---
 
@@ -46,7 +48,4 @@ Tecnologias utilizadas: Kotlin, Jetpack Compose.
 Banco de dados: Firebase.
 
 ---
-
-## Instruções para Execução
-Para executar o projeto, ele está hospedado no repositorio de PI3: https://github.com/raiellysouza/EduSnack_PIES3.git
 
