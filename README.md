@@ -41,16 +41,14 @@ O sistema conta com perfis de aluno, responsável e funcionário da cantina, cad
 
 ---
 
-> [!WARNING]
-> Daqui em diante o README.md só deve ser preenchido no momento da entrega final.
-
 ##  Tecnologias: 
-Liste aqui as tecnologias e bibliotecas que foram utilizadas no projeto.
+Tecnologias utilizadas: Kotlin, Jetpack Compose.
+Banco de dados: Firebase.
 
 ---
 
 ## Instruções para Execução
-[Inclua instruções claras sobre como rodar o projeto localmente. Isso é crucial para que você possa testá-lo nas próximas entregas. **Somente caso haja alguma coisa diferente do usual**
+Para executar o projeto, ele está hospedado no repositorio de PI3: https://github.com/raiellysouza/EduSnack_PIES3.git
 
 ```bash
 # Clone o repositório
